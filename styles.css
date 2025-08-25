@@ -140,3 +140,11 @@ h2 {
 .form-control {
     background-color: #F1EDEF;
 }
+
+/* botao de menu acessibilidade*/
+.menu-acessibilidade{
+    position: fixed;
+    top: 2rem;
+    right: 20px;
+    z-index: 1000;
+}
