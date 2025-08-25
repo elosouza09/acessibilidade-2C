@@ -14,4 +14,11 @@ document.addEventListener('DOMContentLoaded', function(){
         document.body.style.fontSize = `${tamanhoAtualFonte}rem`
     })
 
+    const botaoAcessibilidade = document.getElementById('botao-acessibilidade');
+    const opcoesDeAcessibilidade = document.getElementById('opcoes-acessibilidade');
+
+    botaoAcessibilidade.addEventListener('click', function(){
+        
+    })
+
 })
