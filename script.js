@@ -35,3 +35,8 @@ document.addEventListener('DOMContentLoaded', function () {
         botaoAcessibilidade.setAttribute('aria-expanded', !botaoSelecionado);
 
 })
+
+ScrollReveal().reveal('.#inicio', { delay: 500 });
+ScrollReveal().reveal('.#tropicália', { delay: 500 });
+ScrollReveal().reveal('.#galeria', { delay: 500 });
+ScrollReveal().reveal('.#contato', { delay: 500 });
